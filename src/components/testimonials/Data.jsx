@@ -1,25 +1,25 @@
-import Image1 from "/assets/Image1.jpg";
-import Image2 from "/assets/Image2.jpg";
-import Image3 from "/assets/Image5.jpg";
+import Image1 from "../assets/Image1.jpg";
+import Image2 from "../assets/Image2.jpg";
+import Image3 from "../assets/Image5.jpg";
 
 export const Data = [
   {
     id: 1,
-    image: "/assets/Image1.jpg",
+    image: Image1,
     title: "Pradeep Karki",
     description:
       "A really good job, all aspects of the project were followed step by step and with good results.",
   },
   {
     id: 2,
-    image: "/assets/Image2.jpg",
+    image: Image2,
     title: "Suman Chalise",
     description:
       "A really good job, all aspects of the project were followed step by step and with good results.",
   },
   {
     id: 3,
-    image: "/assets/Image5.jpg",
+    image: Image3,
     title: "Manish Thapaliya",
     description:
       "A really good job, all aspects of the project were followed step by step and with good results.",
